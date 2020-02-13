@@ -2,8 +2,16 @@ this file is for CR1
 
 Change - inprogress for feature payment gateway
 
+
 remote : change to test push with remote etc etc
 
 remote : change by teammate on remote repo for testing pull/fetch
 
 Change by teammate to test rebase on remote repo
+
+changed after rebasing: change to test push with remote etc etc
+
+ola ola ola: change by teammate on remote repo for testing pull/fetch
+
+change on local to test rebase
+
